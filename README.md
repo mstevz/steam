@@ -24,11 +24,6 @@ $playerSummaries = $steam->get("playerSummaries", STEAMID);
 # SUPPORT
 I believe this project is stable and due to my lack of time I will give no support. 
 
-# ERRORS
-Please get in contact if you find any error's.
-
-Email: myeaaaah@gmail.com
-
 # CONCLUSION
 Hope it comes to good use.
 
