@@ -13,7 +13,7 @@ require('steam.php');
 
 $steam = new Steam("http://localhost", API_KEY);
 
-$steam->login( function($loggedUserData){
+$steam->login("http://localhost/dashboard", function($loggedUserData)){
     // handle the logged user data information as you wish. 
 });
 
